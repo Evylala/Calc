@@ -1,0 +1,1 @@
+(= test 0) (= test2 3) (= test3 (-1)) (if (== test10 test3) 1 0)
